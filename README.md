@@ -21,6 +21,6 @@ code</br>
 
 1. SigmoidKernel.py:Function to generate SigmoidKernel similarity</br>
 2. Feature.py:Function to generate the total characteristics</br>
-3. CNN.p;y:The features are obtained by the convolutional neural network</br>
+3. CNN.py:The features are obtained by the convolutional neural network</br>
 4. RF.py:predict potential indications for drugs</br>
    All files of Dataset and Code should be stored in the same folder to run SKCNN.
