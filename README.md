@@ -1,7 +1,7 @@
 
 SKCNN
 ====
-Copyright (C) 2019 Han-Jing Jiang(jianghanjing17@mails.ucas.ac.cn),Zhu-Hong You(zhuhongyou@xjb.ac.cn),Yu-An Huang
+Copyright (C) 2019 Han-Jing Jiang(jianghanjing17@mails.ucas.ac.cn),Zhu-Hong You(zhuhongyou@xjb.ac.cn),Yu-An Huang(yu-an.huang@connect.polyu.hk)
 
 
 Computational drug repositioning
