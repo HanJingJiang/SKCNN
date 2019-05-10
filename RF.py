@@ -40,7 +40,7 @@ def ReadMyCsv(SaveList, fileName):
 SampleFeature = []
 ReadMyCsv(SampleFeature, 'dense1.csv')
 
-x_train, x_test, y_train, y_test = train_test_split(SampleFeature, SampleLabel, test_size=0.2)
+x_train, x_test, y_train, y_test = train_test_split(SampleFeature, SampleLabel, test_size=0.1)
 print('Start training the model.')
 
 cv = StratifiedKFold(n_splits=10)
