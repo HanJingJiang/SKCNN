@@ -12,7 +12,7 @@ We here propose a drug repositioning computational method combining the techniqu
 Dataset</br>
 --
 1. CdrugSimilarity and CdiseaseSimilarity store disease similarity matrix and drug similarity matrix of Cdataset</br>
-2. Drugstore similarity and diseaseSimilarity store diseaseSimilarity matrix and drugSimilarity matrix of Fdataset.</br>
+2. Drug similarity and diseaseSimilarity store diseaseSimilarity matrix and drugSimilarity matrix of Fdataset.</br>
 3. Drug -disease-whole and c-drug-disease-whole store known drug-disease associations of Cdataset and Fataset.</br>
 
 
